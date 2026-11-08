@@ -70,51 +70,61 @@ const featuredIsbProjects = [
   {
     "category": "DIGITAL TWIN",
     "title": "Digital Twin for Automotive Systems using Knowledge Graphs",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Designed a conceptual digital twin prototype for a mid-sized vehicle, modeling mechanical, electrical, electronic and software systems as a knowledge graph. Connected components and interactions to explore system-level behavior and performance metrics."
   },
   {
     "category": "MCP · ENGINEERING AI",
     "title": "AI-Powered FEA Convergence Troubleshooting Tool using LLM & MCP",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Developed an intelligent Abaqus convergence troubleshooting workflow using a Hugging Face LLM and MCP-based knowledge retrieval. Includes a Streamlit interface for .inp, .msg and .sta files, parsing of simulation diagnostics, and contextual recommendations."
   },
   {
     "category": "MLOps · DEPLOYMENT",
     "title": "End-to-End MLOps Pipeline for Targeted Bank Marketing",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Built a customer-conversion prediction workflow spanning EDA, model training, Docker containerization, REST API development with FastAPI/Flask, and AWS EC2 deployment."
   },
   {
     "category": "NLP · LLM",
     "title": "AI-Powered Knowledge Retrieval System using RAG (LLaMA 3)",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Created a domain-specific question-answering system using LLaMA 3 and LlamaIndex, with Top-K retrieval experiments, Jaccard similarity evaluation and traceability to retrieved source documents."
   },
   {
     "category": "NLP · TEXT-TO-SQL",
     "title": "AI-Driven Sports Analytics using Text-to-SQL (LLaMA 3)",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Built a natural-language query workflow for structured cricket data, automating web scraping, database creation, SQL generation and match-insight extraction."
   },
   {
     "category": "COMPUTER VISION",
     "title": "Image Classification using Transfer Learning (ResNet, DenseNet, VGG)",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Built a 15-class image classifier using transfer learning across ResNet, DenseNet and VGG architectures; the document reports up to 97% accuracy."
   },
   {
     "category": "DEEP LEARNING · MEDICAL AI",
     "title": "AI-Based Medical Image Segmentation with Performance Evaluation",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Designed a U-Net segmentation solution with a residual backbone, including preprocessing, tiling, training and evaluation using precision, recall and IoU."
   },
   {
     "category": "PREDICTIVE ANALYTICS",
     "title": "Customer Churn & Survival Analysis using Advanced Statistical Modeling",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Combined churn modeling with Logistic Regression and Discriminant Analysis, value-based segmentation, Kaplan–Meier analysis, Cox hazard modeling and Poisson regression."
   },
   {
     "category": "FORECASTING",
     "title": "Time Series Forecasting of NIFTY 50 Index using ARIMA & Smoothing Models",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Compared moving average, exponential smoothing, Holt trend and ARIMA models on five years of NIFTY 50 data. The project document reports ARIMA as the best-performing model, with MAPE 0.442."
   },
   {
     "category": "RECOMMENDER SYSTEMS",
     "title": "Building Movie Recommendation System based on user ratings",
+    "github": "https://github.com/Rama389/AI-Projects",
     "description": "Used the MovieLens 100K dataset and PySpark to generate recommendations through co-rated movie pairs, similarity computation, filtering and ranking."
   }
 ];
